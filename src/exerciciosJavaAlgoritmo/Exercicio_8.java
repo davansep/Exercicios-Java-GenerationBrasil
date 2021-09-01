@@ -1,4 +1,4 @@
-package exerciciosJavaTurma34;
+package exerciciosJavaAlgoritmo;
 
 import java.util.Scanner;
 
