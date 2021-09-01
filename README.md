@@ -1,2 +1,2 @@
 # Exercicios-Java-GenerationBrasil
-Lista de exercícios em Java
+Lista de exercícios Introdução a Java
